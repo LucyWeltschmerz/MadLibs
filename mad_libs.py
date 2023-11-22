@@ -1,3 +1,5 @@
+# code for review
+
 import random
 
 user_input = input('Enter a number between 1 to 3 or let the game choose for you: ')
